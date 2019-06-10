@@ -2,4 +2,4 @@
 Using Tkinter and SqlLite
 
 ## Output:
-![alt text](https://github.com/saini-dhiraj/Student-ManagementSystem/blob/master/Ouput.JPG)
+![alt text](https://saini-dhiraj.github.io/Student-ManagementSystem/Ouput.JPG)
